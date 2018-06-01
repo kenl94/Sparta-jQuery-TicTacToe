@@ -8,6 +8,7 @@ To download the file, you can download the files via a zip file or through cloni
 
 # Challenges
 I found making sure the players stop after 9 turns difficult, because if it doesn't stop after 9 turns you can override your initial turn, I've also found making the win conditions difficult.
+When I press a box that already has a X or O in it, It doesn't style anymore afterwards.
 
 During this however I have improved on my knowledge of functions, as creating functions wasn't my strong point initially but I am able to understand them better as I am getting practice using them with the DOM.
 
